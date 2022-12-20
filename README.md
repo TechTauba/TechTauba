@@ -1,5 +1,4 @@
 ## Hi there 👋 
----
 > ### ▶️ YouTube Channel Name: VideoCovery 
 > 
 > ### 🏷️ Category: Science & Technology 
@@ -7,7 +6,6 @@
 
 </pre>
 ## My Projects: ( I am working on.. )
----
 > ### [fastbeauty.free](https://github.com/VideoCovery/fastbeauty.free)
 > ### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery)
 ---
