@@ -1,12 +1,12 @@
-### Hi there 👋 
+## Hi there 👋 
 ---
-> ▶️ YouTube Channel Name: VideoCovery 
+> ### ▶️ YouTube Channel Name: VideoCovery 
 > 
-> 🏷️ Category: Science & Technology 
+> ### 🏷️ Category: Science & Technology 
 <pre>
 
 </pre>
-### My Projects: ( I am working on.. )
+## My Projects: ( I am working on.. )
 ---
 > ### [fastbeauty.free](https://github.com/VideoCovery/fastbeauty.free)
 > ### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery)
