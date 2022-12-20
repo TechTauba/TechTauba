@@ -1,18 +1,18 @@
 ### Hi there 👋 
+---
+> ▶️ YouTube Channel Name: VideoCovery 
+> 
+> 🏷️ Category: Science & Technology 
 <pre>
-
-▶️ YouTube Channel Name: VideoCovery 
-
-🏷️ Category: Science & Technology 
 
 </pre>
 ### My Projects: ( I am working on.. )
 ---
-### [fastbeauty.free](https://github.com/VideoCovery/fastbeauty.free)
-### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery)
+> ### [fastbeauty.free](https://github.com/VideoCovery/fastbeauty.free)
+> ### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery)
 ---
-### [fastbeauty.plugins.free](https://github.com/VideoCovery/fastbeauty.plugins.free)
-### The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, [Video Tutorial:](https://youtube.com/@VideoCovery) [Plugin1] 
+> ### [fastbeauty.plugins.free](https://github.com/VideoCovery/fastbeauty.plugins.free)
+> ### The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, [Video Tutorial:](https://youtube.com/@VideoCovery) [Plugin1] 
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
