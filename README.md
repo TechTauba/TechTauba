@@ -5,10 +5,10 @@
 
 </pre>
 ## My Projects: ( I am working on.. )
-> ### [fastbeauty.free](https://github.com/VideoCovery/fastbeauty.free)
+> ### [fastbeauty (free version)](https://github.com/VideoCovery/fastbeauty-free)
 > ### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery "VideoCovery")
 ---
-> ### [fastbeauty.plugins.free](https://github.com/VideoCovery/fastbeauty.plugins.free)
+> ### [fastbeauty plugins (free version)](https://github.com/VideoCovery/fastbeauty-plugins-free)
 > ### The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, [Video Tutorial:](https://youtube.com/@VideoCovery "VideoCovery") [Plugin1] 
 
 <!--
