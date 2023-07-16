@@ -9,7 +9,7 @@
 > ### [Paid (..Soon),](https://youtube.com/@VideoCovery) Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/fastbeauty_themes__free-v1.0) [+ Video tutorial),](https://youtube.com/@VideoCovery)
 ---
 > ### The Fastbeauty Plugins (free & paid)
-> ### [Paid (..Soon),](https://youtube.com/@VideoCovery) Free theme plugin: ["Plugin 1" (Files,](https://github.com/VideoCovery/fastbeauty_plugins__free) [+ Video tutorial),](https://youtube.com/@VideoCovery)
+> ### [Paid (..Soon),](https://youtube.com/@VideoCovery) Free theme plugin: ["Plugin 1" (Files,](https://github.com/VideoCovery/fastbeauty_free-plugin__plugin1) [+ Video tutorial),](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
