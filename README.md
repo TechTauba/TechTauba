@@ -9,7 +9,7 @@
 > ### The WordPress FastBeauty ~~Paid~~ Free Theme, [Video Tutorial:](https://youtube.com/@VideoCovery "VideoCovery")
 ---
 > ### [fastbeauty plugins (free version)](https://github.com/VideoCovery/fastbeauty-plugins-free)
-> ### The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, [Video Tutorial:](https://youtube.com/@VideoCovery "VideoCovery") [Plugin1] 
+> ### The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, Video Tutorial: [Plugin1] (https://youtube.com/@VideoCovery "VideoCovery")
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
