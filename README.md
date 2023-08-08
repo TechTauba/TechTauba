@@ -1,26 +1,23 @@
 ## Hi there 👋 
 > ### ▶️ YouTube Channel Name: VideoCovery   
-> ### 🏷️ Category: Science & Technology 
+> ### 🏷️ Category: Education (Science, Tech & Adv. English)
 <pre>
 
 </pre>
 ## My Projects: ( I am working on.. )
-> ### WordPress Themes
-> ### `|__`Fastbeauty
-> ### `    |__`[Paid theme (Coming soon..),](https://youtube.com/@VideoCovery)
-> ### `    |__`Free theme:
-> ### `        |__`["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/wordpress_free-theme__fastbeauty-v1.0) [+ Video tutorial),](https://youtube.com/@VideoCovery)
+> ### WordPress Themes (free & paid)
+> ### `|__`Fastbeauty 
+> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/wordpress_free-theme__fastbeauty-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Paid theme: [(Coming soon..)](https://youtube.com/@VideoCovery)
 ---
-> ### `|__`The Fastbeauty Plugins (free & paid)
-> ### `    |__`[Paid theme plugin (Coming soon..),](https://youtube.com/@VideoCovery)
-> ### `    |__`Free theme plugin:
-> ### `        |__`["Plugin 1" (Files,](https://github.com/VideoCovery/wordpress_free-plugin__plugin1) [+ Video tutorial),](https://youtube.com/@VideoCovery)
+> ### The Fastbeauty Theme Plugins (free & paid)
+> ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/wordpress_free-plugin__plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Paid plugins: [(Coming soon..),](https://youtube.com/@VideoCovery)
 ---
-> ### Blogger Themes
-> ### `|__`FastOread
-> ### `    |__`[Paid theme (Coming soon..),](https://youtube.com/@VideoCovery)
-> ### `    |__`Free theme:
-> ### `        |__`["FastOread v1.0" (Files,](https://github.com/VideoCovery/blogger_free-theme__fastoread-v1.0) [+ Video tutorial),](https://youtube.com/@VideoCovery)
+> ### Blogger Themes (free & paid)
+> ### `|__`FastOread 
+> ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/blogger_free-theme__fastoread-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Paid theme: [(Coming soon..)](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
