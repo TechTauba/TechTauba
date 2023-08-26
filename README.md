@@ -5,19 +5,16 @@
 
 </pre>
 ## My Projects: ( I am working on.. )
-> ### WordPress Themes (free & paid)
+> ### WordPress Themes (free)
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/wordpress_free-theme__fastbeauty-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
-> ### `    |__`Paid theme: [(Coming soon..)](https://youtube.com/@VideoCovery)
 ---
-> ### The Fastbeauty Theme Plugins (free & paid)
+> ### The Fastbeauty Theme Plugins (free)
 > ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/wordpress_free-plugin__plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
-> ### `    |__`Paid plugins: [(Coming soon..),](https://youtube.com/@VideoCovery)
 ---
-> ### Blogger Themes (free & paid)
+> ### Blogger Themes (free)
 > ### `|__`FastOread 
 > ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/blogger_free-theme__fastoread-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
-> ### `    |__`Paid theme: [(Coming soon..)](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
