@@ -7,14 +7,15 @@
 ## My Projects: ( I am working on.. )
 > ### WordPress Themes (free)
 > ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/wordpress_free-theme__fastbeauty-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/fastbeauty_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
-> ### The Fastbeauty Theme Plugins (free)
-> ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/wordpress_free-plugin__plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### WordPress Theme Plugins (free)
+> ### `|__`Fastbeauty 
+> ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
 > ### Blogger Themes (free)
 > ### `|__`FastOread 
-> ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/blogger_free-theme__fastoread-v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/fastoread_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
