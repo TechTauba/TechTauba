@@ -4,7 +4,11 @@
 <pre>
 
 </pre>
-## My Projects: ( I am working on.. )
+## Projects: ( That I completed! )
+<pre>
+
+</pre>
+## Projects: ( I am working on.. )
 > ### WordPress Themes:
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/wordpress-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
