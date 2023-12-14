@@ -1,6 +1,6 @@
 ## Hi there 👋 
 > ### ▶️ YouTube Channel Name: VideoCovery   
-> ### 🏷️ Category: Education (Science, Tech & Adv. English)
+> ### 🏷️ Category: Education (Science, and Tech)
 <pre>
 
 </pre>
@@ -8,13 +8,10 @@
 > ### WordPress Themes (free)
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/fastbeauty_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
----
-> ### WordPress Theme Plugins (free)
-> ### `|__`Fastbeauty 
 > ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
 > ### Blogger Themes (free)
-> ### `|__`FastOread 
+> ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/fastoread_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
 <!--
