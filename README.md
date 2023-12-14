@@ -5,12 +5,12 @@
 
 </pre>
 ## My Projects: ( I am working on.. )
-> ### WordPress Themes (free)
+> ### WordPress Themes:
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/wordpress-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 > ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
-> ### Blogger Themes (free)
+> ### Blogger Themes:
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/blogger-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
