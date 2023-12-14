@@ -10,7 +10,7 @@
 > ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/wordpress-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 > ### `    |__`Free  plugin: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
-> ### Google's Blogger Themes:
+> ### Google-Blogger Themes:
 > ### `|__`Fastbeauty 
 > ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/blogger-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
