@@ -7,12 +7,12 @@
 ## My Projects: ( I am working on.. )
 > ### WordPress Themes (free)
 > ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/fastbeauty_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/FastbeautyWordpressTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 > ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 ---
 > ### Blogger Themes (free)
 > ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
