@@ -5,6 +5,7 @@
 
 </pre>
 ## Projects: ( That I completed! )
+> ### `|__`NA: ["NA" (Files,](#) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 <pre>
 
 </pre>
