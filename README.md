@@ -12,7 +12,7 @@
 ---
 > ### Blogger Themes (free)
 > ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["FastOread v1.0" (Files,](https://github.com/VideoCovery/fastoread_v1.0) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free theme: ["Fastbeauty v1.0" (Files,](https://github.com/VideoCovery/FastbeautyBloggerTheme) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 
 <!--
 **VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
