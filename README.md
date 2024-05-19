@@ -1,9 +1,4 @@
 ## Hi there 👋 
-> ### ▶️ YouTube Channel Name: VideoCovery   
-> ### 🏷️ Category: Education (Science, and Tech)
-<pre>
-
-</pre>
 ## Projects: ( That I completed! )
 > ### `|__`NA: ["NA" (Files,](#) [+ Video tutorial)](https://youtube.com/@VideoCovery)
 <pre>
