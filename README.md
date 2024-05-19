@@ -1,21 +1,18 @@
 ## Hi there 👋 
-## Projects: ( That I completed! )
-> ### `|__`NA: ["NA" (Files,](#) [+ Video tutorial)](https://youtube.com/@VideoCovery)
-<pre>
-
-</pre>
-## Projects: ( I am working on.. )
-> ### WordPress Themes:
-> ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/wordpress-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
-> ### `    |__`Free  plugin: ["Plugin 1" (Files,](https://github.com/VideoCovery/plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+## - 🔭 I’m currently working on ...
+> ### Google-Blogger Theme:
+> ### `|__`AdduceB 
+> ### `    |__`Free theme: [(Files,](https://github.com/Techadduce/adduceb-free-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
 ---
-> ### Google-Blogger Themes:
-> ### `|__`Fastbeauty 
-> ### `    |__`Free theme: ["Fastbeauty" (Files,](https://github.com/VideoCovery/blogger-themes) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+## - 🌱 I’m currently learning ...
+> ### WordPress Theme & Plugin:
+> ### `|__`AdduceWP
+> ### `    |__`Free theme: [(Files,](https://github.com/Techadduce/adducewp-free-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceWP{"Plugin_1"}
+> ### `    |__`Free plugin: [(Files,](https://github.com/Techadduce/adducewp-free-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
 
 <!--
-**VideoCovery/videocovery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Techadduce/Techadduce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
