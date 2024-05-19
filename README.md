@@ -1,15 +1,12 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
 > ### Google-Blogger Theme:
-> ### `|__`AdduceB 
-> ### `    |__`Free theme: [(Files,](https://github.com/Techadduce/adduceb-free-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceB Google Blogger Template `|__`: [(Files,](https://github.com/Techadduce/adduceb-google-blogger-template) [+ Video tutorial)](https://youtube.com/@Techadduce)
 ---
 ## - 🌱 I’m currently learning ...
 > ### WordPress Theme & Plugin:
-> ### `|__`AdduceWP
-> ### `    |__`Free theme: [(Files,](https://github.com/Techadduce/adducewp-free-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
-> ### `|__`AdduceWP{"Plugin_1"}
-> ### `    |__`Free plugin: [(Files,](https://github.com/Techadduce/adducewp-free-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceWP WordPress Theme `|__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceWP WordPress {"Plugin_1"} `|__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
 
 <!--
 **Techadduce/Techadduce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
