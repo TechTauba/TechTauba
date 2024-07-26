@@ -6,8 +6,8 @@
 ---
 ## - 🌱 I’m currently learning ...
 > ### WordPress Theme & Plugin:
-> ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@gouse-at-github)
-> ### `|__`AdduceWP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@gouse-at-github)
+> ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceWP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
 
 <!--
 **gouse-at-github/gouse-at-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
