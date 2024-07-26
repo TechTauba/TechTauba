@@ -1,16 +1,16 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
 > ### Google-Blogger Theme:
-> ### `|__`AdduceB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/Techadduce/adduceb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
-* *For commercial use, please refer to the ['README.md'](https://github.com/Techadduce/adduceb-google-blogger-theme/blob/main/README.md) file.
+> ### `|__`AdduceB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/gouse-at-github/adduceb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@gouse-at-github)
+* *For commercial use, please refer to the ['README.md'](https://github.com/gouse-at-github/adduceb-google-blogger-theme/blob/main/README.md) file.
 ---
 ## - 🌱 I’m currently learning ...
 > ### WordPress Theme & Plugin:
-> ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
-> ### `|__`AdduceWP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@gouse-at-github)
+> ### `|__`AdduceWP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@gouse-at-github)
 
 <!--
-**Techadduce/Techadduce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gouse-at-github/gouse-at-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
