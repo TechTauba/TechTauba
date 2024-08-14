@@ -3,8 +3,6 @@
 > ### Google-Blogger Theme:
 > ### `|__`AdduceB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/gouse-at-github/adduceb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
 * *For commercial use, please refer to the ['README.md'](https://github.com/gouse-at-github/adduceb-google-blogger-theme/blob/main/README.md) file.
----
-## - 🌱 I’m currently learning ...
 > ### WordPress Theme & Plugin:
 > ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/gouse-at-github/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
 * *For commercial use, please refer to the ['README.md'](https://github.com/gouse-at-github/adduceb-google-blogger-theme/blob/main/README.md) file.
