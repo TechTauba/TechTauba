@@ -1,17 +1,17 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
 > ### Google-Blogger Theme:
-> ### `|__`AdduceB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/Techadduce/adduceb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
-* *For commercial use, please refer to the ['README.md'](https://github.com/Techadduce/adduceb-google-blogger-theme/blob/main/README.md) file.
+> ### `|__`Addu Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/themettb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+* *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/themettb-google-blogger-theme/blob/main/README.md) file.
 > ### WordPress Theme & Plugin:
-> ### `|__`AdduceWP WordPress Theme `__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
-* *For commercial use, please refer to the ['README.md'](https://github.com/Techadduce/adduceb-google-blogger-theme/blob/main/README.md) file.
-> ### `|__`AdduceWP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/Techadduce/adducewp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@Techadduce)
-* *For commercial use, please refer to the ['README.md'](https://github.com/Techadduce/adduceb-google-blogger-theme/blob/main/README.md) file.
+> ### `|__`ThemeTTWP WordPress Theme `__`: [(Files,](https://github.com/TechTauba/themettwp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+* *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/themettb-google-blogger-theme/blob/main/README.md) file.
+> ### `|__`ThemeTTWPP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/TechTauba/themettwpp-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
+* *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/themettb-google-blogger-theme/blob/main/README.md) file.
 
 
 <!--
-**Techadduce/Techadduce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TechTauba/TechTauba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
