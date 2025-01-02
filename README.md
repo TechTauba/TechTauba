@@ -1,12 +1,12 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
 > ### Google-Blogger Theme:
-> ### `|__`TechTaubaB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/techtauba-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
+> ### `|__`BTauba Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/techtauba-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/techtauba-google-blogger-theme/blob/main/README.md) file.
 > ### WordPress Theme & Plugin:
-> ### `|__`TechTaubaWP WordPress Theme `__`: [(Files,](https://github.com/TechTauba/techtauba-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
+> ### `|__`WPTauba WordPress Theme `__`: [(Files,](https://github.com/TechTauba/techtauba-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/techtauba-google-blogger-theme/blob/main/README.md) file.
-> ### `|__`TechTaubaWPP WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/TechTauba/techtauba-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
+> ### `|__`WPPTauba WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/TechTauba/techtauba-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/techtauba-google-blogger-theme/blob/main/README.md) file.
 
 
