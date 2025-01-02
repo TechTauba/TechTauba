@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
 > ### Google-Blogger Theme:
-> ### `|__`Addu Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/themettb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
+> ### `|__`ThemeTTB Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/themettb-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/themettb-google-blogger-theme/blob/main/README.md) file.
 > ### WordPress Theme & Plugin:
 > ### `|__`ThemeTTWP WordPress Theme `__`: [(Files,](https://github.com/TechTauba/themettwp-wordpress-theme) [+ Video tutorial)](https://youtube.com/@Techadduce)
