@@ -4,9 +4,9 @@
 > ### `|__`Paperpick Google Blogger Template/Theme* `__`: [(Files,](https://github.com/TechTauba/paperpick-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-google-blogger-theme/blob/main/README.md) file.
 > ### WordPress Theme & Plugin:
-> ### `|__`Paperpick WordPress Theme `__`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
+> ### `|__`Paperpick WordPress Theme* `__`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-wordpress-theme/blob/main/README.md) file.
-> ### `|__`Paperpick WordPress {"Plugin_1"} `__`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
+> ### `|__`Paperpick WordPress {"Plugin_1"}* `__`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
 * *For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-wordpress-theme/blob/main/README.md) file.
 
 
