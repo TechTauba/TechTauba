@@ -6,7 +6,7 @@
 ### WordPress Theme & Plugin:
 ### ` ` Paperpick WordPress Blog Theme`*`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 #### `  ` `*`For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-wordpress-theme/blob/main/README.md) file.
-### ` ` Paperpick WordPress {"Plugin_1"}`*`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme-plugin-1) [+ Video tutorial)](https://youtube.com/@TechTauba)
+### ` ` Paperpick WordPress Theme Plugins`*`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme-plugins) [+ Video tutorial)](https://youtube.com/@TechTauba)
 #### `  ` `*`For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-wordpress-theme-plugins/blob/main/README.md) file. 
 
 
