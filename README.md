@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ## - 🔭 I’m currently working on ...
-### Google-Blogger Theme:
-### ` ` Paperpick Blogger Blog Theme`*`/Template: [(Files,](https://github.com/TechTauba/paperpick-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
+### Google Blogger Theme:
+### ` ` Paperpick Blogspot Blog Theme`*`/Template: [(Files,](https://github.com/TechTauba/paperpick-google-blogger-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
 #### `  ` `*`For commercial use, please refer to the ['README.md'](https://github.com/TechTauba/paperpick-google-blogger-theme/blob/main/README.md) file.
 ### WordPress Theme & Plugin:
 ### ` ` Paperpick WordPress Blog Theme`*`: [(Files,](https://github.com/TechTauba/paperpick-wordpress-theme) [+ Video tutorial)](https://youtube.com/@TechTauba)
